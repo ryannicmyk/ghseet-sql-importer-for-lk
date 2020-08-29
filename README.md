@@ -1,9 +1,11 @@
 # ghseet-sql-importer-for-lk
-A google sheets to Lorekeeper database importer, meant specifically for MySql
+A google sheets to Lorekeeper database importer to import items and currency, meant specifically for MySql
+
+```
 Hi
 i wrote some code, its meant for moving items for users who are allredy signed up on the site
 i also left comments so you know how to use it
-PLEASE READ THE COMMENTS!!!!
+PLEASE READ THE COMMENTS  !!!!
 it uses python 3.8.5
 there is a requirements.txt
 tabel should be set up in a
@@ -27,4 +29,4 @@ any users not in the site will me skipped and will be logged for future ref
   - also moves said users  items + balance
 .moveusers 
   - moves all users items
-
+```
